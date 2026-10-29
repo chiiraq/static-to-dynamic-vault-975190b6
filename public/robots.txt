@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /auth
+Disallow: /mcp
+Disallow: /.mcp
+Disallow: /.well-known
+Disallow: /uploads
+
+Sitemap: https://shachavirtimber.com/sitemap.xml
